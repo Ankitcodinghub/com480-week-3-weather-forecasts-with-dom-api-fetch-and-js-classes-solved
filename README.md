@@ -1,0 +1,1 @@
+# com480-week-3-weather-forecasts-with-dom-api-fetch-and-js-classes-solved
